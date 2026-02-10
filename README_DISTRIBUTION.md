@@ -17,9 +17,10 @@ The shop uses Google Sheets as its backend. To configure it:
     *   Click **Deploy** and copy the **Web App URL**.
 
 ## 2. Connect the Shop
-1.  Open `static/script.js` in your code editor.
-2.  Find the line: `const GOOGLE_URL = '...';`
-3.  Replace the URL with your copied **Web App URL**.
+1.  Open **both** `script.js` and `feed.php` in your code editor.
+2.  In `script.js`, find the line: `const GOOGLE_URL = '...';`
+3.  In `feed.php`, find the line: `$url = '...';`
+4.  Replace **both URLs** with your copied **Web App URL**.
 
 ## 3. Product Images
 You have two ways to add images:

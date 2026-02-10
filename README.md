@@ -22,9 +22,9 @@ Shopbox is a lightweight, SOTA static commerce solution that synchronizes direct
 5. Copy the generated **Web App URL**.
 
 ### 2. Frontend Configuration
-1. Open `script.js`.
-2. Update the `GOOGLE_URL` constant with your Apps Script URL.
-3. (Optional) Update `checkout.php` with your Stripe Secret Key.
+1. Open `script.js` and `feed.php`.
+2. In **both files**, replace `YOUR_GOOGLE_APPS_SCRIPT_URL` with your deployed Apps Script URL.
+3. Open `checkout.php` and replace `YOUR_STRIPE_SECRET_KEY` with your actual Stripe Secret Key.
 
 #### 3. Rich Text Editing
 Shopbox includes a professional WYSIWYG editor for product descriptions:
