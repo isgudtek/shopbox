@@ -1,0 +1,9 @@
+# Shopbox Git Ignore
+node_modules/
+.DS_Store
+*.log
+.env
+.idea/
+.vscode/
+temp/
+EOF

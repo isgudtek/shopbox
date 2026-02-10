@@ -1,0 +1,7 @@
+ID,Name,Description,Price,Image URL,Category,Stock,Stripe Price ID
+1,Quantum Lens 4K,Ultra-high resolution cinematic lens with neural focus tracking.,1299.99,https://images.unsplash.com/photo-1617005082133-548c4dd4e7ce?auto=format&fit=crop&q=80&w=800,Optics,10
+2,Neon Horizon Keyboard,Mechanical keyboard with haptic feedback and dynamic RGB diffusion.,249.50,https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=800,Hardware,15
+3,Aether Pod Pro,Noise-canceling earbuds with spatial bio-resonance audio.,399.00,https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=800,Audio,8
+4,Titanium Slate Gen 2,Minimalist e-ink tablet with tactile paper-feel surface.,549.99,https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&q=80&w=800,Hardware,12
+5,Vortex Mesh Router,Zero-latency mesh network with quantum signaling.,189.00,https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&q=80&w=800,Network,20
+6,Lunar Aura Watch,Bioluminescent smart watch with circadian rhythm monitoring.,429.00,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800,Wearables,5
