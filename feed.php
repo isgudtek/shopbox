@@ -1,7 +1,7 @@
 <?php
 error_reporting(0); // Suppress PHP errors that break JSON
 
-$url = 'https://script.google.com/macros/s/AKfycbymWP13bM88Q9GKoxM9XgrSFnUhDsfTxIzLO7ltT85gqLWy24HqdYhck-u5qjWBGW8e/exec';
+$url = 'YOUR_GOOGLE_APPS_SCRIPT_URL'; // TODO: Replace with your deployed Web App URL
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);

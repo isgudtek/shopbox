@@ -1,4 +1,4 @@
-const GOOGLE_URL = 'https://script.google.com/macros/s/AKfycbymWP13bM88Q9GKoxM9XgrSFnUhDsfTxIzLO7ltT85gqLWy24HqdYhck-u5qjWBGW8e/exec';
+const GOOGLE_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL'; // TODO: Replace with your deployed Web App URL
 const SHEET_URL = 'feed.php'; // Use PHP proxy for better reliability and bypass CORS
 
 let products = [];
